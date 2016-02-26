@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="MainProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreeGraphs\BinarySearchTree.cs" />
+    <Compile Include="TreeGraphs\BinaryTree.cs" />
+    <Compile Include="TreeGraphs\BinaryTreeNode.cs" />
     <Compile Include="TreeGraphs\Node.cs" />
   </ItemGroup>
   <ItemGroup>

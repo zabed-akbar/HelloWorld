@@ -51,7 +51,7 @@ namespace CSharp.TreeGraphs
 
         public NodeList(int initialSize)
         {
-            for (int i = 0; i < initialSize; initialSize++)
+            for (int i = 0; i < initialSize; i++)
             {
                 base.Items.Add(default(Node<T>));
             }
